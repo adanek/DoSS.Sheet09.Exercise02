@@ -27,4 +27,9 @@ public class IncrementerTests {
 		
 		assertEquals(expected, actual);
 	}
+	
+//	@Test
+//	public void fail() {
+//		fail();
+//	}
 }
